@@ -9,8 +9,8 @@ The hash functions manipulates memory in a little bit different way.In the hashf
 
 Finally , I created a function to get statistics from the whole procedure.It concerns the follow:(Only for HashFile)
 
-1.the number of blocks in current file
-2.the minimum and the maximum number of records that a bucket has
-3.the mean number of records in buckets
-4.the mean number of blocks that a bucket has
-5.the number of buckets that have overflowed blocks.
+1. the number of blocks in current file
+2. the minimum and the maximum number of records that a bucket has
+3. the mean number of records in buckets
+4. the mean number of blocks that a bucket has
+5. the number of buckets that have overflowed blocks.

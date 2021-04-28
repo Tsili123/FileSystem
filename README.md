@@ -18,4 +18,4 @@ Finally , I created a function [```HashStatistics```](https://github.com/aristsi
 Just type ```make``` because makefile is included and then ```./my_ht``` and ```./my_hp``` respectively
 
 # 2nd assignment
-Typing...
+Typing... :)

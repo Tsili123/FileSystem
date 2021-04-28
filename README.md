@@ -15,7 +15,7 @@ Finally , I created a function [```HashStatistics```](https://github.com/aristsi
 4. the mean number of blocks that a bucket has
 5. the number of buckets that have overflowed blocks.
 ### Run 
-Just type ```make``` because makefile is included and then ```./my_ht``` and ```./my_hp``` respectively
+Just type ```make``` in the main directory of each assignment, because makefile is included .Then ```./my_ht``` and ```./my_hp``` respectively
 
 # 2nd assignment
 Typing... :)

@@ -16,9 +16,5 @@ Finally , I created a function to get statistics from the whole procedure.It con
 5. the number of buckets that have overflowed blocks.
 
 ```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
+HeapFile
 ```

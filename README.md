@@ -16,3 +16,6 @@ Finally , I created a function [```HashStatistics```](https://github.com/aristsi
 5. the number of buckets that have overflowed blocks.
 ### Run 
 Just type ```make``` because makefile is included and then ```./my_ht``` and ```./my_hp``` respectively
+
+# 2nd assignment
+Typing...
